@@ -35,17 +35,6 @@
 - Scrapy, Playwright, JavaScript, Git, PostgreSQL, SQLAlchemy
 
 ---
-
-## Education
-**Python Developer | Online course**
-
-July 2022 - November 2022
-
-**Electromechanical engineer of electronic computing equipment |  Higher vocational school No. 21, Mykolaiv**
-
-September 2011 - July 2012
-
----
 <!--
 ## Projects
 ### E-commerce Website
@@ -68,8 +57,6 @@ September 2011 - July 2012
 ## Contact Information
 - **Email**: monteship@gmail.com
 - **LinkedIn**: [linkedin.com/in/misha-ship](https://www.linkedin.com/in/misha-ship-383329204/)
-- **GitHub**: [github.com/monteship](https://github.com/monteship)
-
 ---
 
 ## References
