@@ -35,18 +35,18 @@
 - Scrapy, Playwright, JavaScript, Git, PostgreSQL, SQLAlchemy
 
 ---
-<!--
 ## Projects
-### E-commerce Website
-- Developed a full-stack e-commerce website using React.js and Node.js, integrating payment processing and order management functionality.
-- Utilized MongoDB for data storage and implemented user authentication using JWT tokens.
+### [Codenames](https://github.com/monteship/Codenames)
+- Developed a full-stack website using Angular and Flask, with Websocket communication.
+- ~~Utilized PostgreSQL for data storage and implemented user authentication using JWT tokens.~~
 
-### Task Management Application
-- Designed and implemented a task management application using Angular and Spring Boot, allowing users to create, assign, and track tasks within a team environment.
-- Integrated with a MySQL database for storing task-related data and utilized Hibernate for object-relational mapping.
+### [GameTournamentBot](https://github.com/monteship/GameTournametBot)
+- Script developed to automate web scraping spiders using Scrapy.
+- Utilized SQLite database for storing and tracking changes.
+- Spiders scheduled for execution at specific times and intervals.
+- Reliance on settings from other modules for database and Discord integration.
 
 ---
--->
 ## Languages
 - Ukrainian (Fluent)
 - English (Intermediate)
@@ -57,6 +57,7 @@
 ## Contact Information
 - **Email**: monteship@gmail.com
 - **LinkedIn**: [linkedin.com/in/misha-ship](https://www.linkedin.com/in/misha-ship-383329204/)
+- **Google Skill Boost**: [cloudskillsboost.google/monteship](https://www.cloudskillsboost.google/public_profiles/2c8d1dd0-34af-4168-855d-1da8ac643156)
 ---
 
 ## References
