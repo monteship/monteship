@@ -16,9 +16,9 @@
 - **Languages**: Python, JavaScript(basic), C(basic)
 - **Frontend Technologies**: HTML, CSS, Jinja2, Angular(basic)
 - **Backend Technologies**: Flask, FastAPI, Django(basic)
-- **Scrapyng Technologies**: Scrapy, BeautifulSoup, Parcel, Playwright, Selenium, JMESPATH, XPATH
-- **Databases**: MySQL, PostgreSQL, SQLite
-- **Tools & Platforms**: Git, Docker, Nginx, Google Cloud Platform, Regex
+- **Scrapyng Technologies**: Scrapy, BeautifulSoup, Parcel, Playwright, Selenium, JMESPATH
+- **Databases**: MySQL, PostgreSQL, SQLite, MongoDB
+- **Tools & Platforms**: Git, Docker, Nginx, Google Cloud Platform, Regex, AWS, AirFlow
 
 ---
 
@@ -33,6 +33,13 @@
 - Support and updates for written spiders
 #### Used technology:
 - Scrapy, Playwright, JavaScript, Git, PostgreSQL, SQLAlchemy
+
+### Python Developer | UData | Ukraine
+#### April 2024 - Present
+#### Responsibilities:
+- ...
+#### Used technology:
+- Scrapy, AWS Amplify, FastAPI, Docker, MongoDB
 
 ---
 ## Projects
