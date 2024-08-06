@@ -1,4 +1,4 @@
-[![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/pujux)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev) 
 
 # Misha Ship
 ### Python Software Developer
