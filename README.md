@@ -1,3 +1,5 @@
+[![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev)
+
 # Misha Ship
 ### Python Software Developer
 #### 1.5+ years Python development experience
@@ -40,18 +42,6 @@
 - ...
 #### Used technology:
 - Scrapy, AWS Amplify, FastAPI, Docker, MongoDB
-
----
-## Projects
-### [Codenames](https://github.com/monteship/Codenames)
-- Developed a full-stack website using Angular and Flask, with Websocket communication.
-- ~~Utilized PostgreSQL for data storage and implemented user authentication using JWT tokens.~~
-
-### [GameTournamentBot](https://github.com/monteship/GameTournametBot)
-- Script developed to automate web scraping spiders using Scrapy.
-- Utilized SQLite database for storing and tracking changes.
-- Spiders scheduled for execution at specific times and intervals.
-- Reliance on settings from other modules for database and Discord integration.
 
 ---
 ## Languages
