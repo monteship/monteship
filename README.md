@@ -1,8 +1,8 @@
 [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev) 
 
 # Misha Ship
-### Python Software Developer
-#### 1.5+ years Python development experience
+### Data Engineer
+#### 2+ years Python development experience
 
 ---
 
@@ -16,10 +16,10 @@
 
 ## Skills
 - **Languages**: Python, JavaScript(basic), C(basic)
-- **Frontend Technologies**: HTML, CSS, Jinja2, Angular(basic)
+- **Frontend Technologies**: HTML, CSS, Jinja2, Angular(basic), React(basic)
 - **Backend Technologies**: Flask, FastAPI, Django(basic)
-- **Scrapyng Technologies**: Scrapy, BeautifulSoup, Parcel, Playwright, Selenium, JMESPATH
-- **Databases**: MySQL, PostgreSQL, SQLite, MongoDB
+- **Scrapyng Technologies**: Scrapy, Crawlee, BeautifulSoup, Parcel, Playwright, Selenium
+- **Databases**: SQL, NOSQL
 - **Tools & Platforms**: Git, Docker, Nginx, Google Cloud Platform, Regex, AWS, AirFlow
 
 ---
@@ -29,24 +29,35 @@
 ### Python Developer | OnlineMinds.io | Denmark, Copenhagen
 #### February 2023 - Present
 #### Responsibilities:
-- Played a substantial role in developing web scraping architecture from inception.
-- Created more than 2500 spiders for a leading European rental aggregator.
+- Played a substantial role in developing web scraping architecture.
+- Created more than 2500 spiders for one of leading European rental aggregator.
 - Engineered validation and extraction methods to ensure data accuracy and reliability
 - Support and updates for written spiders
 #### Used technology:
-- Scrapy, Playwright, JavaScript, Git, PostgreSQL, SQLAlchemy
+- Scrapy, Playwright, JavaScript, Git, SQL
 
 ### Python Developer | UData | Ukraine
 #### April 2024 - Present
 #### Responsibilities:
-- ...
+- Developed a robust backend for an event management company, handling bookings from a variety of sources, including email parsing and APIs.
+  (FastApi, MongoDB, React, Google Api) 
+- Developed parsing solution for collecting real-time apartment availability data across a specific region for a prominent booking aggregator. 
+  The system automates the extraction of listing details, including apartment availability, pricing, and other relevant attributes.
+  (Scrapy, MongoDB)
+- Developed a comprehensive parsing solution to collect and aggregate surgical case images from multiple sources, 
+  with advanced post-processing for image quality enhancement and extraction of additional metadata (e.g., patient details, surgical procedure type, and outcome). 
+  This solution automates data collection and processing pipelines, ensuring accuracy and efficiency in handling large volumes of medical images and associated information for further analysis or reporting.
+  (Scrapy, AWS S3)
+- Updated and maintained a marketing project for the French market, focusing on optimizing performance and enhancing. 
+  Developed and implemented various solutions to significantly increase processing speed and counteract bot activity. 
+  (Scrapy, Airflow, SQL, InfluxDB). 
 #### Used technology:
-- Scrapy, AWS Amplify, FastAPI, Docker, MongoDB
+- Scrapy, AWS Amplify, FastAPI, Flask, Docker, MongoDB, SQL, InfluxDB, AirFlow
 
 ---
 ## Languages
 - Ukrainian (Fluent)
-- English (Intermediate)
+- English (Upper-Intermediate)
 - Russian (Fluent)
 
 ---
