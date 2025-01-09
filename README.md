@@ -7,10 +7,11 @@
 ---
 
 ## Summary
-- Experienced professional with expertise in web scraping and Python development, with a focus on building efficient spiders using Scrapy. Proficient in regex, CSS, HTML, and JMESPATH, enabling accurate data extraction from diverse web sources. Skilled in understanding and reverse engineering APIs for scraping purposes to enhance data retrieval capabilities.
-- Experience of SQL for proficient data handling and storage. Expertise in using web drivers such as Playwright and Selenium to navigate complex, JavaScript-heavy websites and ensure comprehensive data extraction.
 - A collaborative mindset encourages teamwork in building the scraping infrastructure on Scrapy, actively contributing to its development and improvement. Commitment to continuous learning and professional growth, staying abreast of the latest web scraping technologies and methodologies.
 - Committed to delivering tangible results with a strong work ethic, attention to detail, and exceptional problem-solving skills. Proactively seek professional development opportunities to ensure proficiency in a constantly evolving field.
+- Experienced professional with expertise in web scraping and Python development, with a focus on building efficient spiders using Scrapy. Proficient in regex, CSS, HTML, and JMESPATH, enabling accurate data extraction from diverse web sources. Skilled in understanding and reverse engineering APIs for scraping purposes to enhance data retrieval capabilities.
+- Experience of SQL for proficient data handling and storage.
+- Expertise in using web drivers such as Playwright and Selenium to navigate complex, JavaScript-heavy websites and ensure comprehensive data extraction.
 
 ---
 
@@ -20,7 +21,7 @@
 - **Backend Technologies**: Flask, FastAPI, Django(basic)
 - **Scrapyng Technologies**: Scrapy, Crawlee, BeautifulSoup, Parcel, Playwright, Selenium
 - **Databases**: SQL, NOSQL
-- **Tools & Platforms**: Git, Docker, Nginx, Google Cloud Platform, Regex, AWS, AirFlow
+- **Tools & Platforms**: Git, Docker, Nginx, Google Cloud Platform, Regex, AWS, AirFlow, Grafana
 
 ---
 
@@ -34,13 +35,13 @@
 - Engineered validation and extraction methods to ensure data accuracy and reliability
 - Support and updates for written spiders
 #### Used technology:
-- Scrapy, Playwright, JavaScript, Git, SQL
+- Scrapy, Playwright, JS, Git, SQL
 
 ### Python Developer | UData | Ukraine
 #### April 2024 - Present
 #### Responsibilities:
 - Developed a robust backend for an event management company, handling bookings from a variety of sources, including email parsing and APIs.
-  (FastApi, MongoDB, React, Google Api) 
+  (FastApi, MongoDB, React, Google API) 
 - Developed parsing solution for collecting real-time apartment availability data across a specific region for a prominent booking aggregator. 
   The system automates the extraction of listing details, including apartment availability, pricing, and other relevant attributes.
   (Scrapy, MongoDB)
@@ -48,12 +49,22 @@
   with advanced post-processing for image quality enhancement and extraction of additional metadata (e.g., patient details, surgical procedure type, and outcome). 
   This solution automates data collection and processing pipelines, ensuring accuracy and efficiency in handling large volumes of medical images and associated information for further analysis or reporting.
   (Scrapy, AWS S3)
-- Updated and maintained a marketing project for the French market, focusing on optimizing performance and enhancing. 
-  Developed and implemented various solutions to significantly increase processing speed and counteract bot activity. 
-  (Scrapy, Airflow, SQL, InfluxDB). 
 #### Used technology:
 - Scrapy, AWS Amplify, FastAPI, Flask, Docker, MongoDB, SQL, InfluxDB, AirFlow
 
+### Data Engineer | Retail-Shake | France
+#### June 2024 - Present
+Updated and maintained a marketing project for the French market, focusing on optimizing performance and enhancing. 
+Developed and implemented various solutions to significantly increase processing speed and counteract bot activity. 
+- Web Scraping
+- Filtration & Normalization 
+- Reverse Engineering ( anti-bot protection, MITM, decompilation )
+- Data Visualization & Processing 
+- Automatic exports
+#### Used technology:
+- Scrapy, MariaDB, RabbitMQ, Airflow, Superset, Grafana, InfluxDB
+
+ 
 ---
 ## Languages
 - Ukrainian (Fluent)
