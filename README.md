@@ -1,8 +1,8 @@
-[[![wakatime](https://wakatime.com/badge/user/081b7213-a723-4232-a686-b6ee892abe35.svg)](https://wakatime.com/@081b7213-a723-4232-a686-b6ee892abe35)
+[![wakatime](https://wakatime.com/badge/user/081b7213-a723-4232-a686-b6ee892abe35.svg)](https://wakatime.com/@081b7213-a723-4232-a686-b6ee892abe35)
 
 # Misha Ship
 ### Data Engineer
-#### 2+ years Python development experience
+#### 3+ years Python development experience
 
 ---
 
